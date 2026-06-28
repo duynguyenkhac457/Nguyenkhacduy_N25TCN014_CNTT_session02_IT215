@@ -1,0 +1,6 @@
+bt4
+Tiêu chí	Vòng lặp for	List comprehension
+Độ dễ hiểu	Rất cao (Luồng chạy rõ ràng, từng bước một)	Trung bình (Cần nắm vững cú pháp nâng cao)
+Độ ngắn gọn	Thấp (Code dài nhiều dòng)	Rất cao (Chỉ cần 1-2 dòng)
+Dễ xử lý bẫy dữ liệu	Rất tốt (Dễ dàng tách riêng từng trường hợp lỗi để xử lý)	Kém (Nhồi nhét nhiều điều kiện phức tạp dễ gây rối mã)
+Dễ bảo trì	Cao (Dễ dàng thêm logic mới sau này)	Trung bình (Khó đọc lại nếu logic lọc quá dài)
